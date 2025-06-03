@@ -130,3 +130,17 @@ To start the server, run:
 ```bash
 npm run dev
 ```
+
+## Future Enhancements
+
+- Implement caching for frequently queried domains to improve performance.
+- Add support for different DNS record types (A, AAAA, MX, CNAME, etc.).
+- Explore using other AI models or integrating multiple models.
+- Develop a web interface for configuration and monitoring.
+- Enhance security features, including request validation and rate limiting.
+
+## Acknowledgements
+
+- Thanks to Google for providing the Gemini AI model.
+- Thanks to the developers of the `denamed` library for simplifying DNS protocol handling.
+- Thanks to the open-source community for providing valuable tools and resources.
