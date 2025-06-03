@@ -126,3 +126,7 @@ This project is licensed under the ISC License.
 ## Usage
 
 To start the server, run:
+
+```bash
+npm run dev
+```
